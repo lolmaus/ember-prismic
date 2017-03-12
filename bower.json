@@ -1,4 +1,5 @@
 {
   "name": "ember-prismic",
-  "dependencies": {}
+  "dependencies": {
+  }
 }
